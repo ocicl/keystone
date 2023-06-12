@@ -1,0 +1,10 @@
+* keystone
+
+Keystone assembler framework: Core (Arm, Arm64, Hexagon, Mips, PowerPC, Sparc, SystemZ & X86) + bindings
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/GrammaTech/keystone.git   |
+| commit  | 08801d7  |
+| systems | keystone |
+|---------+-------------------------------------------|
+
